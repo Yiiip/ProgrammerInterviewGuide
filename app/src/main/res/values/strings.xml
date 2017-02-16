@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">程序猿面试指南</string>
+
+    <string name="app_intro">App说明：使用Jsoup实现网络爬虫，仅供学习使用。这里感谢内容的来源和作者！</string>
+    <string name="title_activity_web">详情</string>
+</resources>
