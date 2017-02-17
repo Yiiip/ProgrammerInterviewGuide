@@ -1,4 +1,4 @@
-CSDN原文：http://blog.csdn.net/SkipperKevin/article/details/55271150
+CSDN原文：http://blog.csdn.net/skipperkevin/article/details/55271150
 <br/>
 
 
@@ -31,6 +31,6 @@ CSDN原文：http://blog.csdn.net/SkipperKevin/article/details/55271150
 注：转载博客请遵循[CC-BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/3.0/cn/)协议。本文涉及到的内容仅作为学习使用。
 
 本项目用到的资源是： <br/>
-①《【剑指Offer学习】【所有面试题汇总】》http://blog.csdn.net/derrantcm/article/details/46887821，  <br/>
-②《BAT（百度，阿里，腾迅）面试题》http://blog.csdn.net/derrantcm/article/details/46658823#comments。  <br/>
+①《【剑指Offer学习】【所有面试题汇总】》http://blog.csdn.net/derrantcm/article/details/46887821  <br/>
+②《BAT（百度，阿里，腾迅）面试题》http://blog.csdn.net/derrantcm/article/details/46658823#comments  <br/>
 这里爬取博主大大的文章仅作为学习使用，感谢博主的文章！
